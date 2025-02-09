@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Nahom Keneni 👋
 
-<!--
-**NahomKeneni/NahomKeneni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate 21-year-old full-stack developer with a strong focus on backend engineering. I have experience and skills in the following technologies:
 
-Here are some ideas to get you started:
+- **Frontend:** HTML, CSS, JavaScript, React.js
+- **Backend:** PHP, MySQL, PostgreSQL, MongoDB, Golang
+- **Web3:** Currently learning Rell programming language on chromia
+- **DevOps:** Currently learning DevOps engineering
+- **Cloud:** AWS using Golang
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I am dedicated to building efficient and scalable web applications. My journey in software development has equipped me with a diverse skill set, and I am always eager to learn and explore new technologies.
+
+## Projects
+
+Feel free to cheeck my repo and give me a feedback I would like to hear from you.
+
+## Get in Touch
+
+- [Email](mailto:nahomkeneni4@gmail.com)
+
+Feel free to reach out if you want to collaborate on a project or just want to connect!
+
+---
