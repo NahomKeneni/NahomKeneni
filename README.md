@@ -2,8 +2,8 @@
 
 I'm a passionate 21-year-old full-stack developer with a strong focus on backend engineering. I have experience and skills in the following technologies:
 
-- **Frontend:** HTML, CSS, JavaScript, React.js
-- **Backend:** PHP, MySQL, PostgreSQL, MongoDB, Golang
+- **Frontend:** HTML, CSS, JavaScript, React.js, Next.js
+- **Backend:** PHP(laravel), MySQL, PostgreSQL, MongoDB, Golang, Express, Django
 - **Web3:** Currently learning Rell programming language on chromia
 - **DevOps:** Currently learning DevOps engineering
 - **Cloud:** AWS using Golang
@@ -18,7 +18,7 @@ Feel free to cheeck my repo and give me a feedback I would like to hear from you
 
 ## Get in Touch
 
-- [Email](mailto:nahomkeneni4@gmail.com)
+- Email : [nahomkeneni4@gmail.com](mailto:nahomkeneni4@gmail.com)
 
 Feel free to reach out if you want to collaborate on a project or just want to connect!
 
